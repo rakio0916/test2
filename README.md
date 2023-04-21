@@ -1,1 +1,10 @@
-# test2
+schedule (スケジュール、予定)
+implement (実装する、実行する)
+revenue (収益、収入)
+deadline (締め切り)
+negotiation (交渉)
+management (管理、経営)
+customer (顧客、お客様)
+marketing (マーケティング、販売促進)
+strategy (戦略)
+budget (予算)
